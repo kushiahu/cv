@@ -8,17 +8,24 @@
       "url": "https://josuetamayo.me",
       "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
       "location": {
-        "address": "2712 Broadway St",
-        "postalCode": "CA 94115",
-        "city": "San Francisco",
-        "countryCode": "US",
-        "region": "California"
+        "address": "Calle 33 #75",
+        "postalCode": "24170",
+        "city": "Cd. del Carmen",
+        "countryCode": "MX",
+        "region": "Campeche"
       },
-      "profiles": [{
-        "network": "Twitter",
-        "username": "john",
-        "url": "https://twitter.com/john"
-      }]
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "kushiahu",
+          "url": "https://linkedin.com/in/kushiahu"
+        },
+        {
+          "network": "GitHub",
+          "username": "kushiahu",
+          "url": "https://github.com/kushiahu"
+        }
+      ]
     },
     "work": [{
       "name": "Company",
