@@ -28,12 +28,12 @@
       ]
     },
     "work": [{
-      "name": "Company",
-      "position": "President",
-      "url": "https://company.com",
-      "startDate": "2013-01-01",
-      "endDate": "2014-01-01",
-      "summary": "Description…",
+      "name": "Cumplo MX",
+      "position": "Software Engineer",
+      "url": "https://cumplo.mx/",
+      "startDate": "2022-06-16",
+      "endDate": null,
+      "summary": "Actualmente funjo en apoyo a los Sistemas de Atención / Auto gestión de los clientes de Cumplo",
       "highlights": [
         "Started the company"
       ]
